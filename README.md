@@ -13,7 +13,7 @@ Isso facilitará e auxiliará a busca de exemplares disponíveis na biblioteca, 
 ## Mostrando o programa
 Neste video eu mostro como é usado o programa, suas funcionalidades e sua interface.
 
-![video](./assets/img/apresentacao)
+![video](./assets/img/apresentacao.mp4)
 
 ## Contato
 Caio Eduardo - @scaioeduardoss - caioeduardo20147@gmail.com
