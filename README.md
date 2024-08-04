@@ -19,6 +19,6 @@ caso o video não esteja funcionando, clique no icone abaixo e baixe o video:
 ![video](./assets/img/apresentacao.mp4)
 
 ## Contato
-Caio Eduardo - @scaioeduardoss - caioeduardo20147@gmail.com
+Caio Eduardo - @caioeduardoss - caioeduardo20147@gmail.com
 
 Link do Projeto: https://github.com/caioeduardoss/euroteca
