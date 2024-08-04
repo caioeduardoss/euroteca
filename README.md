@@ -1,5 +1,5 @@
 # EUROTECA
-![Badge de Licença](./assets)
+![euroteca](./assets/img/logo.png)
 
 ## Sumário
 - [Descrição](#descrição)
