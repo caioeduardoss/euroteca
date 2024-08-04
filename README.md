@@ -1,4 +1,3 @@
-# EUROTECA
 ![euroteca](./assets/img/logo.png)
 
 ## Sumário
