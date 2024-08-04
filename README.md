@@ -14,7 +14,8 @@ Isso facilitará e auxiliará a busca de exemplares disponíveis na biblioteca, 
 Neste video eu mostro como é usado o programa, suas funcionalidades e sua interface.
 https://www.loom.com/share/ef4915db26ad4de1a5f34d4d2ef15893?sid=20cdbbf9-a67a-412a-a346-7907d2e26425
 
-caso o link não esteja funcionando, clique no icone abaixo e baixe o video
+caso o link não esteja funcionando, clique no icone abaixo e baixe o video:
+
 ![video](./assets/img/apresentacao.mp4)
 
 ## Contato
